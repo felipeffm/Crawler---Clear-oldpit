@@ -1,4 +1,4 @@
-# Crawler para executar ações de compra e venda clear
+# RPA para executar ações de compra e venda Swingtrade
 Esse é um projeto estritamente de pesquisa. Sob nenhuma circunstância me responsabilizo por qualquer uso da ferramenta. 
 
 Etapas para interagir com a clear:
